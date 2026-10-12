@@ -1,0 +1,12 @@
+settings.json
+logs/
+*.exe
+*.zip
+*.tmp
+*.log
+验证结果.txt
+黑屏截图验证.txt
+黑屏静音验证.txt
+publication-check.ps1
+publication-check.txt
+release-notes.md
